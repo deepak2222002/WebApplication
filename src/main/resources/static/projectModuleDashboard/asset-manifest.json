@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/WebApplication/projectModuleDashboard/static/css/main.dbadd354.css",
+    "main.js": "/WebApplication/projectModuleDashboard/static/js/main.bf67dfe2.js",
+    "static/js/453.930d3667.chunk.js": "/WebApplication/projectModuleDashboard/static/js/453.930d3667.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/WebApplication/projectModuleDashboard/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/WebApplication/projectModuleDashboard/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/background.jpg": "/WebApplication/projectModuleDashboard/static/media/background.97b49da8922ccac69f4a.jpg",
+    "static/media/woco.png": "/WebApplication/projectModuleDashboard/static/media/woco.77f2e99fa4f53af3f599.png",
+    "index.html": "/WebApplication/projectModuleDashboard/index.html",
+    "main.dbadd354.css.map": "/WebApplication/projectModuleDashboard/static/css/main.dbadd354.css.map",
+    "main.bf67dfe2.js.map": "/WebApplication/projectModuleDashboard/static/js/main.bf67dfe2.js.map",
+    "453.930d3667.chunk.js.map": "/WebApplication/projectModuleDashboard/static/js/453.930d3667.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbadd354.css",
+    "static/js/main.bf67dfe2.js"
+  ]
+}

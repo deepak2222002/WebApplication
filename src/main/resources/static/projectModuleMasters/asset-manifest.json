@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/WebApplication/projectModuleMasters/static/css/main.cde30ab0.css",
+    "main.js": "/WebApplication/projectModuleMasters/static/js/main.fae85a92.js",
+    "static/js/453.930d3667.chunk.js": "/WebApplication/projectModuleMasters/static/js/453.930d3667.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/WebApplication/projectModuleMasters/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/WebApplication/projectModuleMasters/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/copyrightImage.png": "/WebApplication/projectModuleMasters/static/media/copyrightImage.3a44ff0f98976fa0ad62.png",
+    "static/media/background.jpg": "/WebApplication/projectModuleMasters/static/media/background.97b49da8922ccac69f4a.jpg",
+    "static/media/default2.png": "/WebApplication/projectModuleMasters/static/media/default2.4dbde45bfd7886de7c25.png",
+    "static/media/woco.png": "/WebApplication/projectModuleMasters/static/media/woco.77f2e99fa4f53af3f599.png",
+    "index.html": "/WebApplication/projectModuleMasters/index.html",
+    "main.cde30ab0.css.map": "/WebApplication/projectModuleMasters/static/css/main.cde30ab0.css.map",
+    "main.fae85a92.js.map": "/WebApplication/projectModuleMasters/static/js/main.fae85a92.js.map",
+    "453.930d3667.chunk.js.map": "/WebApplication/projectModuleMasters/static/js/453.930d3667.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde30ab0.css",
+    "static/js/main.fae85a92.js"
+  ]
+}

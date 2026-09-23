@@ -1,0 +1,341 @@
+	.fullBodyContainer {
+		background: transparent;
+		background-image: url("../images/loginBackground.png");
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+		width: 100%;
+		height: 100vh;
+	}
+
+	body {
+		overflow: hidden;
+	}
+
+	.loginPageContainer {
+		position: relative;
+		background: transparent;
+		background-image: url("../images/loginContainerFormat.png");
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+		width: 40%;
+		height: 100vh;
+		background-color: white;
+		border-radius: 10px;
+		border: 1px solid rgb(192, 192, 192);
+	}
+
+	.loginPageContainer2 {
+		width: 40%;
+		height: 200px;
+		background-color: white;
+		border-radius: 10px;
+		margin-left: 10%;
+		margin-top: 10%;
+		float: right;
+		right: 0px;
+	}
+
+	.dataContainer {
+		width: 100%;
+		height: auto;
+		text-align: left;
+		margin: 0.5%;
+
+	}
+
+	.heading1 {
+		font-size: 30px;
+		font-weight: bold;
+		font-family: Arial, Helvetica, sans-serif;
+		letter-spacing: 0.5px;
+		text-align: center;
+	}
+
+	.heading3 {
+		font-size: 15px;
+		font-weight: bold;
+		font-family: Arial, Helvetica, sans-serif;
+		letter-spacing: 0.5px;
+		text-align: center;
+	}
+
+	.inputs {
+		border: 0.5px solid rgb(192, 192, 192);
+		background-color: white;
+		width: 90%;
+		font-size: 15px;
+		margin: auto;
+		padding-left: 10px;
+	}
+
+	.inputs:hover {
+		border: 0.5px solid blue;
+	}
+
+	.loginButton {
+		margin-top: 8%;
+		background-color: black;
+		color: white;
+		float: right;
+		margin-right: 5%;
+
+	}
+
+	.loginButton:hover {
+		background-color: white;
+		color: black;
+
+	}
+
+
+	#show {
+		font-size: 12px;
+	}
+
+	#check {
+		margin-left: 5%;
+		margin-right: 1%;
+		margin-top: 5%;
+	}
+
+	.link {
+		margin: 1%;
+		border: 0px;
+		font-size: 20px;
+		font-weight: bold;
+		color: rgb(128, 0, 0);
+
+	}
+
+	.link:hover {
+		background-color: rgb(247, 247, 247);
+		opacity: 0.8;
+	}
+
+
+	#show {
+		font-family: Arial;
+		margin-bottom: 3%;
+	}
+
+	#copyRightContainer {
+		position: absolute;
+		left: 20px;
+		bottom: 0px;
+		width: 90%;
+	}
+
+	#copyRightImage {
+		width: 20%;
+		opacity: 0.5;
+	}
+
+	.buttonContainers {
+		float: left;
+		width: 155px;
+		height: 190px;
+		margin: 1.5%;
+		text-align: center;
+	}
+
+	.buttonContainers2 {
+		float: left;
+		width: 155px;
+		height: 190px;
+		margin: 1.5%;
+		text-align: center;
+	}
+
+	#masters {
+		width: 100%;
+		height: 80%;
+		background: transparent;
+		background-image: url("../images/master.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	#lineleader {
+		width: 100%;
+		height: 80%;
+		background: transparent;
+		background-image: url("../images/lineleader.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	#feeder {
+		width: 100%;
+		height: 80%;
+		background: transparent;
+		background-image: url("../images/feeder.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	#workinprogress {
+		width: 100%;
+		height: 80%;
+		background: transparent;
+		background-image: url("../images/wip.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	#lpcqualitychecking {
+		width: 100%;
+		height: 80%;
+		background: transparent;
+		background-image: url("../images/quality2.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	#oidsClient {
+		width: 100%;
+		height: 80%;
+		background: transparent;
+		background-image: url("../images/oidsClient.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	#receivequalitychecking {
+		width: 100%;
+		height: 80%;
+		background: transparent;
+		background-image: url("../images/quality.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	#reports {
+		width: 99%;
+		height: 80%;
+		background: transparent;
+		background-image: url("../images/reports.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	#applicatorMonitering {
+		width: 99%;
+		height: 80%;
+		background: transparent;
+		background-image: url("../images/applicatorMoniter.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	#maintenance {
+		width: 99%;
+		height: 80%;
+		background: transparent;
+		background-image: url("../images/maintenance.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	#finalInspection {
+		width: 99%;
+		height: 80%;
+		background: transparent;
+		background-image: url("../images/final_inspection.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	#manpower {
+		width: 99%;
+		height: 80%;
+		background: transparent;
+		background-image: url("../images/manpower.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	.buttonName {
+		font-size: 15px;
+		font-weight: bold;
+		color: rgb(128, 0, 0);
+	}
+
+
+	@media screen and (max-width:2000px) {
+		.fullBodyContainer {
+			width: 100%;
+			overflow: hidden;
+			min-height: 100vh;
+			height: auto;
+		}
+
+
+		.loginPageContainer {
+			width: 40%;
+			height: 550px;
+			min-width: 500px;
+		}
+	}
+
+
+	@media screen and (max-width:1700px) {
+		.fullBodyContainer {
+			width: 100%;
+			overflow: hidden;
+			min-height: 100vh;
+			height: auto;
+		}
+
+
+		.loginPageContainer {
+			width: 47%;
+			height: 550px;
+			min-width: 500px;
+		}
+	}
+
+
+	@media screen and (max-width:1400px) {
+
+
+		.fullBodyContainer {
+			width: 100%;
+			overflow: hidden;
+			min-height: 100vh;
+			height: auto;
+		}
+
+		.loginPageContainer {
+			width: 40%;
+			height: 390px;
+			min-width: 500px;
+		}
+
+	}
+	
+	@media screen and (max-width:900px) {
+
+
+		.fullBodyContainer {
+			width: 100%;
+			overflow: hidden;
+			min-height: 100vh;
+			height: auto;
+			
+		}
+
+		.loginPageContainer {
+			width: 40%;
+			height: 300px;
+			margin-top: 20%;
+			min-width: 350px;
+		}
+		
+		.loginPageContainer2{
+			margin-top: 10%;	
+			width: 40%;	
+		}
+
+	}

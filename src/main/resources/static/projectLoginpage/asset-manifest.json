@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/WebApplication/projectLoginpage/static/css/main.1ac843fe.css",
+    "main.js": "/WebApplication/projectLoginpage/static/js/main.844ce22e.js",
+    "static/js/453.754ea8c1.chunk.js": "/WebApplication/projectLoginpage/static/js/453.754ea8c1.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/WebApplication/projectLoginpage/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/WebApplication/projectLoginpage/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/background.jpg": "/WebApplication/projectLoginpage/static/media/background.97b49da8922ccac69f4a.jpg",
+    "index.html": "/WebApplication/projectLoginpage/index.html",
+    "main.1ac843fe.css.map": "/WebApplication/projectLoginpage/static/css/main.1ac843fe.css.map",
+    "main.844ce22e.js.map": "/WebApplication/projectLoginpage/static/js/main.844ce22e.js.map",
+    "453.754ea8c1.chunk.js.map": "/WebApplication/projectLoginpage/static/js/453.754ea8c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ac843fe.css",
+    "static/js/main.844ce22e.js"
+  ]
+}
